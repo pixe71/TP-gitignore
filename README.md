@@ -1,4 +1,4 @@
-# Projet — Analyse simple de logs  réseau
+# Projet — Analyse simple de logs réseau
 
 Nom du dépôt GitHub : **`tp-gitignore-ciel`**
 
